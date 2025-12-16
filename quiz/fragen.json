@@ -2,7 +2,7 @@
   {
     "kategorie": "",
     "fragen": [
-      { "punkte": 100, "frage": " ", "antwort": " " },
+      { "punkte": 100, "frage": "  ", "antwort": " " },
       { "punkte": 200, "frage": " ", "antwort": " " },
       { "punkte": 300, "frage": " ", "antwort": " " },
       { "punkte": 500, "frage": " ", "antwort": " " },
@@ -86,4 +86,5 @@
   }
 
 ]
+
 
