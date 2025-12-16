@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeopardy Spiel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Was weiß Sauftag?</h1>
+
+    <div id="scoreboard">
+        <h2>Punktestand</h2>
+        <div id="team-scores"></div>
+    </div>
+    
+    <div id="jeopardy-board"></div>
+
+    <div id="question-modal" class="modal">
+        <div class="modal-content">
+            
+            <span id="cancel-modal-x" title="Frage abbrechen (nicht werten)">&times;</span>
+
+            <div id="question-text"></div>
+            
+            <img id="question-image" src="" alt="Frage Bild">
+            
+            <div id="timer-section">
+                <div class="timer-container">
+                    <svg class="timer-svg" width="100" height="100" viewBox="0 0 100 100">
+                        <circle class="timer-bg-ring" cx="50" cy="50" r="45"></circle>
+                        <circle id="timer-progress-ring" cx="50" cy="50" r="45" pathLength="1"></circle>
+                    </svg>
+                    <div id="timer-text">30</div>
+                </div>
+                
+                <div id="timer-controls">
+                    <button id="start-timer-btn">▶ Start</button>
+                    <button id="stop-timer-btn">⏸ Stopp</button>
+                </div>
+            </div>
+
+            <div id="moderator-area">
+                <button id="toggle-hint-btn"> Lösung </button>
+                <span id="moderator-answer-text" style="display: none;"></span>
+            </div>
+
+            <button id="double-chance-btn">Doppelte Chance!</button>
+
+            <div id="grading-buttons">
+                <button id="award-points-btn">✓ Richtig</button>
+                <button id="close-no-points-btn">X Falsch</button>
+            </div>
+
+            <button id="show-answer-btn">Antwort für alle auflösen</button>
+            <div id="answer-text"></div>
+        </div>
+    </div>
+
+    <div id="message-modal" class="modal">
+        <div class="modal-content message-content">
+            <h2 id="message-title">Info</h2>
+            <p id="message-text"></p>
+            <button id="message-ok-btn">OK</button>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>

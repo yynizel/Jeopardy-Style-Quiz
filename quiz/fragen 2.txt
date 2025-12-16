@@ -1,0 +1,57 @@
+[
+  {
+    "kategorie": "Basketball",
+    "fragen": [
+      { "punkte": 100, "frage": "Wie viele Punkte gibt ein Wurf hinter der Linie?", "antwort": "3 Punkte" },
+      { "punkte": 200, "frage": "Wie heißt der Wurf, bei dem der Spieler den Ball in den Korb stopft?", "antwort": "Dunk" },
+      { "punkte": 300, "frage": "Wie heißt die Regel, die Spielern untersagt, zu lange in der Zone zu stehen?", "antwort": "3-Sekunden-Regel" },
+      { "punkte": 500, "frage": "Wie nennt man einen Fehlpass, der ins Aus geht?", "antwort": "Turnover (Ausball)" },
+      { "punkte": 750, "frage": "Welche Stadt hat den Spitznamen „The Mecca of Basketball“?", "antwort": "New York City" },
+      { "punkte": 1000, "frage": "Wer war der erste Nicht-Nordamerikaner in der Hall of Fame (Basketball)?", "antwort": "Sergei Below" }
+    ]
+  },
+  {
+    "kategorie": "Kunst",
+    "fragen": [
+      { "punkte": 100, "frage": "Wer malte die Mona Lisa?", "antwort": "Leonardo da Vinci" },
+      { "punkte": 200, "frage": "Wie nennt man Kunst, die mit Licht arbeitet?", "antwort": "Lichtkunst" },
+      { "punkte": 300, "frage": "Welche Epoche prägte Michelangelo?", "antwort": "Renaissance" },
+      { "punkte": 500, "frage": "Wie heißt die Technik, Metall in Holz zu treiben?", "antwort": "Treibarbeit" },
+      { "punkte": 750, "frage": "Welche Epoche folgt auf den Barock?", "antwort": "Klassizismus oder Romantik" },
+      { "punkte": 1000, "frage": "Wie heißt die Farbtheorie, die Goethe entwickelte?", "antwort": "Goethes Farbenlehre" }
+    ]
+  },
+  {
+    "kategorie": "Tierwelt",
+    "fragen": [
+      { "punkte": 100, "frage": "Größtes Tier der Welt?", "antwort": "Blauwal" },
+      { "punkte": 200, "frage": "Wie heißt ein männlicher Ente?", "antwort": "Erpel" },
+      { "punkte": 300, "frage": "Welche Schildkrötenart wird am ältesten?", "antwort": "Galápagos-Riesenschildkröte" },
+      { "punkte": 500, "frage": "Welches Tier ist das intelligenteste Insekt?", "antwort": "Honigbiene" },
+      { "punkte": 750, "frage": "Welche Ameisenart betreibt Pilzzucht?", "antwort": "Blattschneiderameise" },
+      { "punkte": 1000, "frage": "Wie heißt der kleinste Primat der Welt?", "antwort": "Berthe-Mausmaki" }
+    ]
+  },
+  {
+    "kategorie": "Abkürzungen",
+    "fragen": [
+      { "punkte": 100, "frage": "Was heißt „bzw.“?", "antwort": "beziehungsweise" },
+      { "punkte": 200, "frage": "Wofür steht „AKA“?", "antwort": "also known as" },
+      { "punkte": 300, "frage": "Was heißt „VPN“?", "antwort": "Virtual Private Network" },
+      { "punkte": 500, "frage": "Wofür steht die Abkürzung „UVP“ im Handel?", "antwort": "Unverbindliche Preisempfehlung" },
+      { "punkte": 750, "frage": "Was bedeutet „SSH“ ausgeschrieben?", "antwort": "Secure Shell" },
+      { "punkte": 1000, "frage": "Was heißt DHL ausgeschrieben?", "antwort": "Dalsey, Hillblom und Lynn " }
+    ]
+  },
+  {
+    "kategorie": "Kennzeichenkürzel",
+    "fragen": [
+      { "punkte": 100, "frage": "„HH“ steht für?", "antwort": "Hansestadt Hamburg" },
+      { "punkte": 200, "frage": "„WOB“ steht für?", "antwort": "Wolfsburg" },
+      { "punkte": 300, "frage": "„HDH“ steht für?", "antwort": "Heidenheim" },
+      { "punkte": 500, "frage": "„HZ“ steht für?", "antwort": "Harz" },
+      { "punkte": 750, "frage": "„WAF“ steht für?", "antwort": "Warendorf" },
+      { "punkte": 1000, "frage": "„SAD“ steht für?", "antwort": "Schwandorf" }
+    ]
+  }
+]

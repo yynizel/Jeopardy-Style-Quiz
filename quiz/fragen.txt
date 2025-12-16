@@ -1,0 +1,87 @@
+[
+  {
+    "kategorie": "Allgemeinwissen",
+    "fragen": [
+      { "punkte": 100, "frage": "Wie viele Tage hat ein Schaltjahr?", "antwort": "366" },
+      { "punkte": 200, "frage": "Welches Land hat die meisten Einwohner in der EU?", "antwort": "Deutschland" },
+      { "punkte": 300, "frage": "Wie heißt das größte Korallenriff der Welt?", "antwort": "Great Barrier Reef" },
+      { "punkte": 500, "frage": "Welches heutige Land umfasst den Großteil des ehemaligen Perserreichs?", "antwort": "Iran" },
+      { "punkte": 750, "frage": "Wie heißt die berühmte Bibliothek im alten Ägypten?", "antwort": "Alexandria" },
+      { "punkte": 1000, "frage": "Welcher Planet hat die kürzesten Tage?", "antwort": "Jupiter" }
+    ]
+  },
+  {
+    "kategorie": "Wissenschaft",
+    "fragen": [
+      { "punkte": 100, "frage": "Aus welchen drei Teilchen bestehen Atome?", "antwort": "Protonen, Neutronen und Elektronen" },
+      { "punkte": 200, "frage": "Welche zwei Gase nehmen ungefähr 99% der Atmosphärenluft ein?", "antwort": "Stickstoff und Sauerstoff" },
+      { "punkte": 300, "frage": "Wie heißt der Prozess der Zellteilung?", "antwort": "Mitose" },
+      { "punkte": 500, "frage": "Wie heißt die Theorie, die das Universum aus 'vibrierenden Einheiten' erklärt?", "antwort": "Stringtheorie" },
+      { "punkte": 750, "frage": "Wie lautet die wissenschaftliche Bezeichnung der kosmischen Hintergrundstrahlung?", "antwort": "Cosmic Microwave Background (CMB)" },
+      { "punkte": 1000, "frage": "Welche Formel beschreibt die Zeitdilatation?", "antwort": "t′ = t / √(1 − v²/c²)" }
+    ]
+  },
+  {
+    "kategorie": "Videospiele",
+    "fragen": [
+      { "punkte": 100, "frage": "Welche Farbe hat Links Kleidung in Zelda oft?", "antwort": "Grün" },
+      { "punkte": 200, "frage": "Nenne ein Spiel welches von Entwicklerstudio CD Projekt Red entwickelt wurde!", "antwort": "Cyberpunk, Witcher 1, 2 und 3" },
+      { "punkte": 300, "frage": "Wie lautet der Name des Hauptcharakters aus Red Dead Redemption 2?", "antwort": "Arthur Morgan" },
+      { "punkte": 500, "frage": "Welches Entwicklerstudio entwickelt die Spielereihe ANNO?", "antwort": "Ubisoft" },
+      { "punkte": 750, "frage": "Wie heißt das geheime Level in Diablo 2 welches aus einem Community Prank entstand?", "antwort": "Secret Cow Level" },
+      { "punkte": 1000, "frage": "Nenne alle bisherigen Pokemon Regionen!", "antwort": "Kanto, Johto, Hoenn, Sinnoh, Kalos, Alola, Galar, Hisui, Paldea" }
+    ]
+  },
+  {
+    "kategorie": "Sprichwörter",
+    "fragen": [
+      { "punkte": 100, "frage": "„Ende gut, alles ___.“", "antwort": "„Ende gut, alles gut.“" },
+      { "punkte": 200, "frage": "„Hochmut kommt vor dem ___.“", "antwort": "„Hochmut kommt vor dem Fall.“" },
+      { "punkte": 300, "frage": "„Ein blindes Huhn findet auch mal ein ___.“", "antwort": "„Ein blindes Huhn findet auch mal ein Korn.“" },
+      { "punkte": 500, "frage": "„Es ist nicht alles Gold, was ____.“", "antwort": "„Es ist nicht alles Gold, was glänzt.“" },
+      { "punkte": 750, "frage": "„Die dümmsten Bauern haben die größten _____.“", "antwort": "„Die dümmsten Bauern haben die größten Kartoffeln.“" },
+      { "punkte": 1000, "frage": "„Unter den Blinden ist der Einäugige ___.“", "antwort": "„Unter den Blinden ist der Einäugige König.“" }
+    ]
+  },  
+  {
+    "kategorie": "Logos",
+    "fragen": [
+      { 
+        "punkte": 100, 
+        "frage": "", 
+        "bild": "bilder/skoda.png",
+        "antwort": "Skoda" 
+      },
+      { 
+        "punkte": 200, 
+        "frage": "", 
+        "bild": "bilder/mastercard.png", 
+        "antwort": "Mastercard" 
+      },
+      { 
+        "punkte": 300, 
+        "frage": "", 
+        "bild": "bilder/lv.png",
+        "antwort": "Louis Vuitton" 
+      },
+      { 
+        "punkte": 500, 
+        "frage": "", 
+        "bild": "bilder/palantir2.png",
+        "antwort": "Palantir" 
+      },
+      { 
+        "punkte": 750, 
+        "frage": "", 
+        "bild": "bilder/broadcom.png",
+        "antwort": "Broadcom" 
+      },
+      { 
+        "punkte": 1000, 
+        "frage": "", 
+        "bild": "bilder/skhynix.png",
+        "antwort": "Sk Hynix" 
+      }
+    ]
+  }
+]
