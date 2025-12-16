@@ -221,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // --- BUTTONS ---
+    
     toggleHintBtn.addEventListener('click', () => {
         if (moderatorAnswerText.style.display === 'none') {
             moderatorAnswerText.style.display = 'inline-block';
@@ -322,8 +322,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     setupTeams();
-    fetch('fragen.txt')
+    fetch('fragen.json')
         .then(r => r.ok ? r.json() : Promise.reject(r))
         .then(d => { gameData = d; buildBoard(d); })
         .catch(e => console.error(e));
+
 });
